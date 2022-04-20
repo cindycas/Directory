@@ -1,5 +1,5 @@
-# yellowPages
-Final Project Database Design and Development
+# SQL Directory
+Database Design and Development | Project
 
 I want to create a database that hosts everything that is necessary to create a directory. The
 purpose is to store various details about a person; some of the information that the database will hold are first name,
